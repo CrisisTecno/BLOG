@@ -59,9 +59,7 @@ const juan1 = {
         (this.email = email),
         (this.username = username),
         (this.socialMedia = {
-          // this.twitter=twitter,
-          //this.instagram=instagram,
-          //this.faceboook=faceboook,
+
           twitter,
           instagram,
           faceboook,

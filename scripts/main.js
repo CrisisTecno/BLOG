@@ -4,7 +4,7 @@ const natalia = {
     age: 20,
     cursosAprobados: ["Curso definitivo de HTML", "Curso definitivo de HTML"],
     aprobarCurso1: function () {},
-    //existe la sintaxis
+
     aprobarCurso(nuevoCurso) {
       this.cursosAprobados.push(nuevoCurso);
     },
